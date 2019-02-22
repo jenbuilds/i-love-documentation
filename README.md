@@ -72,3 +72,9 @@ Here are all the reasons documentation is awesome so you can tell your friends a
 * How can I reward and encourage people I work with to write documentation?
     * Verbally recognize people for writing documentation
     * Encourage people to thank each other when they find each others’ documentation helpful
+
+## Express your love for documentation!
+
+* [Buy a sticker!](https://ilovedocs.threadless.com/)
+* [Submit a testimonial!](https://goo.gl/forms/TFk8MhLyHU8w2Xlq2)
+* [Sign up for our mailing list!](https://tinyletter.com/ilovedocumentation) Want to hear about joyful documentation-related happenings? Join our mailing list! We don't have any plans to send emails right now, but if we think of things we'd like to share with you, we promise we won't send more than one email a month.
