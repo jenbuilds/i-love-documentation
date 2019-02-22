@@ -77,4 +77,4 @@ Here are all the reasons documentation is awesome so you can tell your friends a
 
 * [Buy a sticker!](https://ilovedocs.threadless.com/)
 * [Submit a testimonial!](https://goo.gl/forms/TFk8MhLyHU8w2Xlq2)
-* [Sign up for our mailing list!](https://tinyletter.com/ilovedocumentation) Want to hear about joyful documentation-related happenings? Join our mailing list! We don't have any plans to send emails right now, but if we think of things we'd like to share with you, we promise we won't send more than one email a month.
+* [Sign up for our mailing list!](https://tinyletter.com/ilovedocumentation) Want to hear about joyful documentation-related happenings? We don't have any plans to send emails right now, but if we think of things we'd like to share with you, we promise we won't send more than one email a month.
